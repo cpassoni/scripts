@@ -27,6 +27,7 @@ brew install libtiff
 brew install ssh-copy-id
 brew install z
 brew install maven
+brew install tomcat
 
 
 brew cask install alfred
@@ -41,4 +42,6 @@ brew cask install firefox
 brew cask install hipchat
 brew cask install skype
 brew cask install vlc
+brew cask install arduino
+brew cask install ftdi-vcp-driver
 
