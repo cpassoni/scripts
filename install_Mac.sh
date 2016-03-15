@@ -26,7 +26,7 @@ brew install htop
 brew install libtiff
 brew install ssh-copy-id
 brew install z
-
+brew install maven
 
 
 brew cask install alfred
